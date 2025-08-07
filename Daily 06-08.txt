@@ -1,0 +1,11 @@
+6/8/25
+
+¿Que se hizo hasta el momento? 
+Para nuestra empresa, decidimos priorizar los diagramas, por lo que hicimos el diagrama de flujo de datos, y el diagrama de entidad relación.
+
+¿Qué se va a a hacer?
+ -Empezar a hacer el diagrama de gantt para poder administrar bien los tiempos que nos va a ocupar cada tarea y poder llegar a hacer todas en orden y a tiempo.
+-Empezar la base de datos del proyecto, y cargar todos lo datos necesarios, como por ejemplo la lista de productos, y caso de uso)
+
+¿Cómo se va a hacer?
+Utilizando aplicaciones como project libre para el diagrama de caso de uso y para la base de datos por el momento estamos anotando todo en un documento para luego ver en qué programa hacerlo correctamente.
