@@ -1,9 +1,0 @@
-¿Que se hizo hasta el momento? 
-Diagrama de gantt, diagrama de DFD, diagrama de DER, Product list, diagrama de caso de uso.
-Se siguio avanzando con el codigo
-
-¿Qué se va a a hacer?
-La idea de hoy es continuar con el codigo, actualizar el diagrama de Gantt y realizar el diagrama CPM.
-
-¿Cómo se va a hacer?
-Para continuar con el codigo vamos a seguir usando visual studio code, para el diagrama de Gantt seguiremos con el Project Libre, y para el CPM nos vamos a guiar con los diagramas ya hechos, utilizando el Draw.io.
