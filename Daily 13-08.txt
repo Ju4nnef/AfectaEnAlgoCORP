@@ -1,0 +1,9 @@
+11/08/2025
+¿Que se hizo hasta el momento? 
+Diagrama de gantt, diagrama de DFD, diagrama de DER, Product list, diagrama caso de uso y diagrama de CPM
+
+¿Qué se va a a hacer?
+Hoy finalizaremos el desarrollo de la base de datos.
+
+¿Cómo se va a hacer?
+Para hacer la base de datos, nos vamos a guiar con todos los diagramas que tenemos para hacer las tablas y agregar lo que son los values con Insert Into.

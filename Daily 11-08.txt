@@ -1,0 +1,9 @@
+11/08/2025
+¿Que se hizo hasta el momento? 
+Diagrama de gantt, diagrama de DFD, diagrama de DER, Product list y diagrama caso de uso.
+
+¿Qué se va a a hacer?
+Vamos a hacer el diagrama de CPM y corregir los diagramas de gantt y der.
+
+¿Cómo se va a hacer?
+Utilizamos la herramienta draw.io para realizar los diagramas que teníamos planeados hoy que son diagrama de CPM (Camino Critico) y también completar el diagrama de Gantt ya que nos falta saber que es el MVP asi que le vamos a preguntar a Olaso.
