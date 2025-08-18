@@ -1,0 +1,39 @@
+DROP DATABASE IF NOT EXISTS gimnasio.ProductoMinimoViable;;
+CREATE DATABASE gimnasio.ProductoMinimoViable;
+USE gimnasio.ProductoMinimoViable;
+CREATE TABLE suplementos (
+    id_suplemento INT AUTO_INCREMENT PRIMARY KEY,
+    nombre VARCHAR(200) NOT NULL,
+    precio DECIMAL(10,2),
+    stock INT
+);
+
+CREATE TABLE ventas (
+    id_venta INT AUTO_INCREMENT PRIMARY KEY,
+    id_culturista INT,
+    fecha DATE,
+    total DECIMAL(10,2),
+    FOREIGN KEY (id_culturista) REFERENCES culturistas(id_culturista)
+);
+
+CREATE TABLE venta_items (
+    id_item INT AUTO_INCREMENT PRIMARY KEY,
+    id_venta INT,
+    id_suplemento INT,
+    cantidad INT,
+    precio_unitario DECIMAL(10,2),
+    FOREIGN KEY (id_venta) REFERENCES ventas(id_venta),
+    FOREIGN KEY (id_suplemento) REFERENCES suplementos(id_suplemento)
+);
+
+INSERT INTO culturistas (nombre, telefono) VALUES
+('Federico Lopez', '+54-9-11-5555-6666');
+
+INSERT INTO suplementos (nombre, precio, stock) VALUES
+('Creatina Monohidratada',1599.00,50);
+
+INSERT INTO ventas (id_culturista, fecha, total) VALUES
+(1,'2025-03-10',1599.00);
+
+INSERT INTO venta_items (id_venta, id_suplemento, cantidad, precio_unitario) VALUES
+(1,1,1,1599.00);
