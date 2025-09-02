@@ -1,0 +1,4 @@
+01/09/2025
+Hasta ahora, hemos terminado todos los diagramas y la documentación.
+Nos falta desarrollar la página web según toda esa información.
+Utilizaremos Bootstrap y ChatGPT para diseñar una pagina funcional agregar, modificar y eliminar. Bootstrap nos permitirá crear el diseño con componentes ya hechos, mientras que ChatGPT nos ayudará con la generacion de codigo.
