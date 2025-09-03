@@ -1,0 +1,7 @@
+03/09
+¿Que se hizo hasta el momento? 
+Hemos completado todos los diagramas y documentacion
+¿Qué se va a a hacer?
+Hoy haremos lo que es la parte de código, planeamos hacerlo en lenguaje HTML.
+¿Cómo se va a hacer?
+Utilizaremos Visual Studio Code para que las consultas se puedan ejecutar y sean funcionales, para poder lograr la pagina.
